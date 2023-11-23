@@ -7,7 +7,7 @@ namespace Ü211._1_Widerstandsrechner
         static void Main(string[] args)
         {
 
-            //benjamin streitriegl 2bhel
+           
 
             Console.WriteLine("***Widerstandrechner***");
             Console.WriteLine("Wollen sie (S)eriellen oder (P)aralellen Gesamtwiderstand berechnen");
