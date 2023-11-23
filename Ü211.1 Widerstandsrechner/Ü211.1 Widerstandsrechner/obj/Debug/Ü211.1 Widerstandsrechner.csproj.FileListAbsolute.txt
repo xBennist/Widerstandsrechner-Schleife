@@ -1,0 +1,7 @@
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\obj\Debug\Ü211.1 Widerstandsrechner.csproj.AssemblyReference.cache
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\obj\Debug\Ü211.1 Widerstandsrechner.csproj.CoreCompileInputs.cache
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\bin\Debug\Ü211.1 Widerstandsrechner.exe.config
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\bin\Debug\Ü211.1 Widerstandsrechner.exe
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\bin\Debug\Ü211.1 Widerstandsrechner.pdb
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\obj\Debug\Ü211.1 Widerstandsrechner.exe
+C:\Users\heinz\source\repos\Ü211.1 Widerstandsrechner\Ü211.1 Widerstandsrechner\obj\Debug\Ü211.1 Widerstandsrechner.pdb
